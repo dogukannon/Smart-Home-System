@@ -179,20 +179,5 @@ public class SmartLight extends SmartObject implements LocationControl , Program
 	public void setProgramAction(boolean programAction) {
 		this.programAction = programAction;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 
 }
