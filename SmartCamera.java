@@ -135,24 +135,4 @@ public class SmartCamera extends SmartObject implements MotionControl, Comparabl
 		this.nightVision = nightVision;
 	}
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
